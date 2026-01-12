@@ -45,7 +45,7 @@ Outcome:
 You should clearly see C# 7.2 as a shift toward explicit intent.
 ________________________________________
 
-### Part 2 – Immutability and Data Movement
+## Part 2 – Immutability and Data Movement
 
 Practice Prompt 3 – readonly struct as a Performance Contract
 
